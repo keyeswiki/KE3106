@@ -4,3 +4,4 @@
 
    docs/产品介绍
    docs/ArduinoTutorial/arduinoRST
+   docs/MixlyTutorial/mixlyRST
