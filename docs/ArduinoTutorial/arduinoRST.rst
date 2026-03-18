@@ -1,11 +1,11 @@
-2.Arduino 教程
+**Arduino 教程**
 =============
 
 2.1 Arduino教程资料下载
 =======================
 Arduino教程资料中包含教程中的代码以及所需的代码库文件，固件烧录软件，语音固件等。
 
-:download:`点击下载资料文件<file.zip>`
+:download:`点击下载资料文件<file.7z>`
 
 
 2.2 Arduino WiFi控制教程
